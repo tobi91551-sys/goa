@@ -6,7 +6,7 @@ from turtle import *
 shape("turtle")
 #step 1:  draw a square
 speed(1)
-width(7)
+width(10)
 color("aqua")
 forward(200)
 left(90)
